@@ -1,0 +1,17 @@
+2025-03-25 15:39:47 - INFO - 日誌文件已創建: C:\Users\13100\source\repos\Doc_Combine\dist\logs\format_selector_20250325153947.log
+2025-03-25 15:39:47 - INFO - Tkinter界面已初始化
+2025-03-25 15:39:50 - INFO - 開始生成PPT文件
+2025-03-25 15:39:50 - INFO - 腳本目錄: C:\Users\13100\source\repos\Doc_Combine\dist
+2025-03-25 15:39:50 - WARNING - docs目錄不存在，已創建: C:\Users\13100\source\repos\Doc_Combine\dist\docs
+2025-03-25 15:39:50 - INFO - output目錄不存在，已創建: C:\Users\13100\source\repos\Doc_Combine\dist\output
+2025-03-25 15:39:50 - INFO - 輸出文件路徑: C:\Users\13100\source\repos\Doc_Combine\dist\output\output_20250325153950.ppt
+2025-03-25 15:39:50 - WARNING - docs 文件夾中沒有找到 PPT 文件
+2025-03-25 15:39:50 - ERROR - 生成失敗
+2025-03-25 15:40:14 - INFO - 開始生成PPT文件
+2025-03-25 15:40:14 - INFO - 腳本目錄: C:\Users\13100\source\repos\Doc_Combine\dist
+2025-03-25 15:40:14 - INFO - 輸出文件路徑: C:\Users\13100\source\repos\Doc_Combine\dist\output\output_20250325154014.ppt
+2025-03-25 15:40:15 - INFO - 正在使用第一個文件作為基礎: docs\Advantech AI 研討會_Johnson.pptx
+2025-03-25 15:40:15 - INFO - 正在處理: docs\需求效益評估_範例.pptx
+2025-03-25 15:40:18 - INFO - 已成功合併所有 PPT 文件到: C:\Users\13100\source\repos\Doc_Combine\dist\output\output_20250325154014.ppt
+2025-03-25 15:40:22 - INFO - 文件生成成功: C:\Users\13100\source\repos\Doc_Combine\dist\output\output_20250325154014.ppt
+2025-03-25 15:40:28 - INFO - 已打開文件夾: C:\Users\13100\source\repos\Doc_Combine\dist\output
